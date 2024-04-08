@@ -1,0 +1,26 @@
+{
+  "name": "nik-registration",
+  "version": "1.0.0",
+  "description": "this is a registration page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munira428/Registration-Form.git"
+  },
+  "author": "munira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munira428/Registration-Form/issues"
+  },
+  "homepage": "https://github.com/Munira428/Registration-Form#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3",
+    "path": "^0.12.7"
+  }
+}
